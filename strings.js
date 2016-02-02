@@ -9,3 +9,5 @@
 */
 
 
+var someString = 'max is funky';
+
