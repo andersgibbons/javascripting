@@ -10,4 +10,4 @@
 
 
 var someString = 'max is funky';
-
+console.log(someString);
